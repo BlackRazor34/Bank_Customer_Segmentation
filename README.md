@@ -55,8 +55,8 @@ Bu çıktı, farklı müşteri profillerinin banka için ne kadar değerli olabi
 
 1.  Bu repoyu klonlayın:
     ```bash
-    git clone [https://github.com/kullanici-adiniz/proje-adiniz.git](https://github.com/kullanici-adiniz/proje-adiniz.git)
-    cd proje-adiniz
+    git clone https://github.com/BlackRazor34/Bank_Customer_Segmentation.git
+    cd Bank_Customer_Segmantation
     ```
 2.  Gerekli kütüphanelerin kurulu olduğundan emin olun. Eğer kurulu değilse, yükleyebilirsiniz:
     ```bash
